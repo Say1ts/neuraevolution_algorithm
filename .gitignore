@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 .idea/
 __pycache__
+NN_ensemble_bias.txt
+NN_ensemble_structure.txt
